@@ -16,7 +16,7 @@ setup(
 	name='library_management',
 	version=version,
 	description='App for managing Articles, Members, Memberships and Transact for Libraries',
-	author='Frappe',
+	author='Shreya',
 	author_email='shreyashah115@gmail.com',
 	packages=find_packages(),
 	zip_safe=False,

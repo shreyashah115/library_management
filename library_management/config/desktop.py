@@ -6,8 +6,8 @@ def get_data():
 	return [
 		{
 			"module_name": "Library Management",
-			"color": "#589494",
-			"icon": "octicon octicon-book",
+			"color": "grey",
+			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("Library Management")
 		}
