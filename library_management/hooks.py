@@ -4,11 +4,9 @@ from . import __version__ as app_version
 
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "Shreya"
 app_description = "App for managing Articles, Members, Memberships and Transact for Libraries"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "shreyashah115@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
